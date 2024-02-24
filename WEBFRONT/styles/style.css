@@ -1,0 +1,28 @@
+html {
+    color: beige;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: bisque;
+    padding: auto;
+    border: 5px solid black;
+
+}
+p {
+    color: black;
+}
+h1 {
+    font-size: 100px;
+    text-align: center;
+    color: brown;
+    margin: 0;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+li {
+    color: aqua;
+    line-height: 2;
+}
